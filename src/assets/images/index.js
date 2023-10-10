@@ -1,0 +1,13 @@
+import pic from './pic.png';
+import git from './git.png';
+import github from './github.png';
+import css from './css.png';
+import html from './html.png';
+import javascript from './javascript.png';
+import react from './react.png';
+import tailwind from './tailwind.png';
+import nike from './nike.png';
+import emily from './emily.png';
+export default pic;
+export { git, github, css, html, javascript, react, tailwind };
+export { nike, emily };
