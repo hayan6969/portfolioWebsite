@@ -14,7 +14,7 @@ function Nav() {
       return (
         <div className='flex justify-center sticky bottom-0 z-10 '>
           <div className="glassmorphism w-[400px]  max-h-[4.4rem] px-6 font-medium rounded-full sticky bottom-0 ">
-          <ul className="flex relative ">
+          <ul className="flex relative left-4 ">
             <span
               className={`bg-white duration-500 ${Menus[active].dis} border-2 border-purple-400  h-16 w-16 absolute
              -top-5 rounded-full`}
