@@ -13,7 +13,7 @@ function Nav() {
       const [active, setActive] = useState(0);
       return (
         <div className='flex justify-center sticky bottom-0 '>
-          <div className="glassmorphism w-[400px]  max-h-[4.4rem] px-6 font-medium rounded-full sticky bottom-1">
+          <div className="glassmorphism w-[400px]  max-h-[4.4rem] px-6 font-medium rounded-full sticky bottom-0">
           <ul className="flex relative ">
             <span
               className={`bg-white duration-500 ${Menus[active].dis} border-2 border-purple-400  h-16 w-16 absolute
