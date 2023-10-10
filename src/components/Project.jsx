@@ -14,7 +14,7 @@ function Project() {
         </div>
         <div className='flex flex-wrap max-sm:flex-col max-sm:items-center  justify-evenly pt-[50px]'>
 
-        <div class="w-[270px] h-[300px] rounded-3xl overflow-hidden max-sm:mt-5 bg-white shadow-2xl">
+        <div class="w-[270px] h-[300px] rounded-3xl overflow-hidden max-sm:mt-5 hover:scale-110 hover:cursor-pointer transition-all ease-in-out duration-200 bg-white shadow-2xl">
   <img class="w-full   object-contain" src={nike} alt="Sunset in the mountains"/>
   <div class="px-6 py-4">
     <div class="font-bold text-xl mb-2  text-center">Nike Store</div>
@@ -26,7 +26,7 @@ function Project() {
    <a href="https://hayan6969.github.io/reactNikeLandingPage/" target="_blank " rel='noopener noreferrer'>View</a>
   </div>
 </div>
-<div class="w-[270px] h-[300px] rounded-3xl overflow-hidden max-sm:mt-5 bg-white shadow-2xl">
+<div class="w-[270px] h-[300px] rounded-3xl overflow-hidden max-sm:mt-5 hover:scale-110 hover:cursor-pointer transition-all ease-in-out duration-200 bg-white shadow-2xl">
   <img class="w-full   object-contain" src={emily} alt="Sunset in the mountains"/>
   <div class="px-6 py-4">
     <div class="font-bold text-xl mb-2  text-center">Portfolio</div>

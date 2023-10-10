@@ -4,7 +4,7 @@ import pic from '../assets/images'
 function Hero() {
   return (
     
-    <div id='home' className='w-[1200px] h-auto flex justify-evenly max-sm:flex-col  max-sm:items-center max-sm:justify-end  '>
+    <div id='home' className='w-[1200px] mt-[20px] h-auto flex justify-evenly max-sm:flex-col  max-sm:items-center max-sm:justify-end  '>
         <div className='  flex justify-center items-center h-auto '>
             <h1 className='text-[#42446E] font-bold max-sm:text-[25px] max-sm:text-center text-[40px] '>
             Yo! 👋, <br />
