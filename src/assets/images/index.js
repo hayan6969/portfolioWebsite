@@ -8,8 +8,6 @@ import react from './react.png';
 import tailwind from './tailwind.png';
 import nike from './nike.png';
 import emily from './emily.png';
-import cv from './hayanCV.pdf';
 export default pic;
 export { git, github, css, html, javascript, react, tailwind };
 export { nike, emily };
-export { cv };
