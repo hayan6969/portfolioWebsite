@@ -9,18 +9,18 @@ import Project from './components/Project';
 
 function App() {
   return (
+    
     <section className=' bg-white flex flex-col '>
              <section className='flex justify-center'
-             > <Hero/> 
+             > 
+                <Hero/> 
                
              </section>
              <Cv/>
              <Tech/>
              <Project/>
               
-              <Nav/>
-              
-
+              <Nav/> 
 
      </section>
     

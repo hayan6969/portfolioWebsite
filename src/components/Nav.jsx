@@ -12,7 +12,7 @@ function Nav() {
       ];
       const [active, setActive] = useState(0);
       return (
-        <div className='flex justify-evenly w-full    sticky bottom-0 z-10 '>
+        <div className='flex justify-evenly w-full  mb-2  fixed bottom-0 z-10 '>
           <div className="glassmorphism  w-[400px] max-sm:w-[360px]   max-h-[4.4rem] px-6 font-medium rounded-full sticky bottom-0 ">
           <ul className="flex relative left-4 max-sm:left-0 ">
             <span
